@@ -2,7 +2,7 @@
 * Projected graduation in 2027
 * Typing at 67WPM
 * Proficient in yearbook
-
+![]()
 ## Term 1
 
 ## Term 2
